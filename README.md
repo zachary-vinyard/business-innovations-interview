@@ -52,8 +52,8 @@ In the _exercise-2_ folder, you&#39;ll find a Python file called _pnseb-allocati
 
 _Deliverables_
 
-1. **1.** Short write-up (half-page or less) of what this program does.
-2. **2.** Output from the program
-3. **3.**** Bonus**: comment the code, including your changes!
+1. Short write-up (half-page or less) of what this program does.
+2. Output from the program
+3. ** Bonus**: comment the code, including your changes!
 
 _Note_: this exercise will require that you have Python 3.6 or greater and pandas 0.24 or greater installed on your system. I recommend the Anaconda3 distribution of Python, which comes with pandas included. (If you have Anaconda already installed on your system, you may want to update both your version of Python and of pandas. In most cases, using the command **conda update -n root conda** followed by **conda update --all** in the command prompt will update Anaconda, Python, and most needed modules.)
