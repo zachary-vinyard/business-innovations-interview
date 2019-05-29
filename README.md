@@ -24,7 +24,7 @@ Develop a plan for the integration of PIN codes into our mobile services for all
 - Impact on clients and on the country program
 - Major risks associated with this rollout, and what steps can be taken to ameliorate them
 
-In developing this plan, you&#39;ll want to consult with TUBURA employees at HQ. You&#39;ll also want to map existing mobile services, including all USSD and 2-way SMS services. (Are there any services that wouldn&#39;t need a pin). Critical teams to consult with include Field Ops, Customer Engagement, and Innovations Phase 3.
+In developing this plan, you&#39;ll want to consult with TUBURA employees at HQ. You&#39;ll also want to map existing mobile services, including all USSD and 2-way SMS services. (Are there any services that wouldn&#39;t need a PIN?) Critical teams to consult with include Field Ops, Customer Engagement, and Innovations Phase 3.
 
 _Deliverables_
 
