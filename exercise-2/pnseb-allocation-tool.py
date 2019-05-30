@@ -10,10 +10,10 @@ from datetime import datetime
 #version number
 version = '2-15-6'
 
-#FILEPATH - CHANGE THIS TO THE FILE DIRECTORY
+#FILEPATH - CHANGE THIS TO THE FILE DIRECTORY FOR YOUR COMPUTER
 filepath = os.path.expanduser('~' ) + r'\Documents\Tubura\data'
 
-#FILENAME - CHANGE TO MATCH THE FILE NAME
+#FILENAME - CHANGE TO MATCH THE INPUT FILE NAME
 filename = 'pnseb-input.xlsx'
 
 #sheet names
